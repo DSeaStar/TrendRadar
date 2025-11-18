@@ -8,7 +8,6 @@ openai
 sora
 
 ai
-!gai
 人工智能
 
 日本
